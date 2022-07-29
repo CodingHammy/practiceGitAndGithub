@@ -4,6 +4,6 @@ git status                  | status of git
 git add <docname>           | add docname to staging point
 git add .                   | add all docs to staging point
 git commit                  | commits all staging point docs to commit, write in file that pops up then save and quit
-git commit -m "<message>"  | commits all staging point docs to commit, with the message
+git commit -m "<message>"   | commits all staging point docs to commit, with the message
 git --amend                 | edit the the last commit or add new file to the last commit
 git branch 
