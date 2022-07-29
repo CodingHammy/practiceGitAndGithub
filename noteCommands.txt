@@ -1,0 +1,7 @@
+OUTLINE
+start .                     | go to gui of location you are in terminal
+git status                  | status of git
+git add <docname>           | add docname to staging point
+git add .                   | add all docs to staging point
+git commit                  | commits all staging point docs to commit, write in file that pops up then save and quit
+git commit - m "<message>"  | commits all staging point docs to commit, with the message
