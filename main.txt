@@ -1,1 +1,5 @@
 Main or Master branch
+
+HEAD
+points to current location we are looking at, the branch we left off.
+head refers to the most recent spot on a branch you are viewing
