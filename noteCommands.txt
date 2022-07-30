@@ -23,3 +23,5 @@ git diff --cached               | differences between only staged files
 git diff --staged <file name>   | differences between only staged file name
 git diff <branch1> <branch2>    | differnec between branch1 and branch2
 git diff <commit1> <commit2>    | difference between two commits
+git diff HEAD HEAD~1            | differnce between head and the previous head ~<how many steps back>
+
