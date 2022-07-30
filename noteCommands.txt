@@ -32,3 +32,4 @@ git checkout <commit-hash>      | check out other commits
 git checkout head~<steps back>  | check out commits so many steps back from where the head is
 git switch -                    | take me back to last branch
 git checkout head <doc name>    | revert changes on the doc type back to the last head spot
+git checkout -- <doc name>      | revert changes on the doc type back to the last head spot
