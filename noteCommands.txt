@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 OUTLINE
 
 start .                     | go to gui of location you are in terminal
