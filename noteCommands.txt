@@ -19,4 +19,5 @@ git merge <branch name>     | merge branch name to master branch. be on the mast
 git diff                    | show the difference between the last save unstaged
 git diff HEAD               | differnce between last commit staged and unstaged
 git diff --staged           | differences between only staged files
-git diff --cached           |
+git diff --cached           | differences between only staged files
+ 
