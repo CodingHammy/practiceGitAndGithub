@@ -16,4 +16,5 @@ git branch -D <branch name> | force delete a branch. need to be on another branc
 git branch -d <branch name> | delete branch must merge branch first
 git branch -m <new name>    | make branch new name. need to be on the branch
 git merge <branch name>     | merge branch name to master branch. be on the master branch when you merge
-git 
+git willie          makes willies
+git penis for the wenis
