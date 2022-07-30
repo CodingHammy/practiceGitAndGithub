@@ -19,3 +19,4 @@ git merge <branch name>     | merge branch name to master branch. be on the mast
 git pill for the will
 git sam is the man
 git nam dam lam
+hello world 
