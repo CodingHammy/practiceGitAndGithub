@@ -21,3 +21,4 @@ git diff HEAD                   | differnce between last commit staged and unsta
 git diff --staged               | differences between only staged files
 git diff --cached               | differences between only staged files
 git diff --staged <file name>   | differences between only staged file name
+git di
