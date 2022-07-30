@@ -25,4 +25,5 @@ git diff <branch1> <branch2>    | differnec between branch1 and branch2
 git diff <commit1> <commit2>    | difference between two commits
 git diff HEAD HEAD~1            | differnce between head and the previous head ~<how many steps back>
 git stash                       | save files without commiting when switcing to branch that has conflicts
+git stash pop                   | saved file pops back after command is written on correct branch allowing for commit later on
 
