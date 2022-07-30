@@ -18,3 +18,5 @@ git branch -m <new name>    | make branch new name. need to be on the branch
 git merge <branch name>     | merge branch name to master branch. be on the master branch when you merge
 git diff                    | show the difference between the last save unstaged
 git diff HEAD               | differnce between last commit staged and unstaged
+git diff --staged           | differences between only staged files
+git diff --cached           |
