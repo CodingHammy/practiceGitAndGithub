@@ -27,5 +27,5 @@ git diff HEAD HEAD~1            | differnce between head and the previous head ~
 git stash                       | save files without commiting when switcing to branch that has conflicts
 git stash pop                   | saved file pops back after command is written on correct branch allowing for commit later on
 git stash apply                 | saved file can be applyed back to where they belong but they still stay stashed and can be applied to more than one branch
-
+git stash list                  | list of stashes
 
