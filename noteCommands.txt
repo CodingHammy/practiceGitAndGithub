@@ -28,4 +28,4 @@ git stash                       | save files without commiting when switcing to 
 git stash pop                   | saved file pops back after command is written on correct branch allowing for commit later on
 git stash apply                 | saved file can be applyed back to where they belong but they still stay stashed and can be applied to more than one branch
 git stash list                  | list of stashes
-git checkout <commit code>      | check out other commits
+git checkout <commit-hash>      | check out other commits
