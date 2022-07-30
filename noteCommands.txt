@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 OUTLINE
 
 start .                     | go to gui of location you are in terminal
@@ -17,3 +18,5 @@ git branch -d <branch name> | delete branch must merge branch first
 git branch -m <new name>    | make branch new name. need to be on the branch
 git merge <branch name>     | merge branch name to master branch. be on the master branch when you merge
 git somthing
+=======
+>>>>>>> silence
