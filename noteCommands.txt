@@ -1,4 +1,6 @@
 OUTLINE
+
+
 start .                     | go to gui of location you are in terminal
 git status                  | status of git
 git add <docname>           | add docname to staging point
