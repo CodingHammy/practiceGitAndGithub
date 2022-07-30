@@ -9,7 +9,7 @@ git commit -a -m "<msg>"    | git add . and commit with a message
 git --amend                 | edit the the last commit or add new file to the last commit
 git branch                  | shows what branch you are one
 git branch <branch Name>    | no spaces makes a branch does not switch to branch
-git switch <branch Name     | switch to the the branch name you wish to be on
+git switch <branch Name>    | switch to the the branch name you wish to be on
 git switch -c <branch name> | create branch and switch to that branch all in one go
 git branch -D <branch name> | force delete a branch. need to be on another branch
 git branch -d <branch name> | delete branch must merge branch first
