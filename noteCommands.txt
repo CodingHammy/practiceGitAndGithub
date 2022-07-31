@@ -35,3 +35,4 @@ git checkout head <doc name>    | revert changes on the doc type back to the las
 git checkout -- <doc name>      | revert changes on the doc type back to the last head spot
 git restore <doc name>          | revert changes on the doc type back to the last head spot
 git restore --staged <doc name> | unstage a file that you have added 
+git reset <commit-hash>         | reset repo back to the commit hash mentioned
