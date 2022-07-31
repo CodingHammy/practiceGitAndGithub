@@ -38,4 +38,3 @@ git restore --staged <doc name> | unstage a file that you have added
 git reset <commit-hash>         | reset repo back to the commit hash mentioned. keeps old info in working dir just deletes the commit with it in
 git reset --hard <commit-hash>  | reset repo back to mentioned hash and also removes info from working dir
 git revert <commit-hash>        | makes new commit with same info as the commit hash that you mention so you can return to a commit you left
-something to try
