@@ -43,3 +43,4 @@ git remote add <name> <url> 	| add remote add url to
 git remote -v		        	| list if you have or what your current remotes are
 git remote <oldName> <newName>  | change remote name
 git remote remove <name>        | get rid of a remote
+git push <remote> <branch>      | git push origin <branch name>
