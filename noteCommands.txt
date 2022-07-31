@@ -39,3 +39,5 @@ git reset <commit-hash>         | reset repo back to the commit hash mentioned. 
 git reset --hard <commit-hash>  | reset repo back to mentioned hash and also removes info from working dir
 git revert <commit-hash>        | makes new commit with same info as the commit hash that you mention so you can return to a commit you left
 git clone <url>                 | clone a repo from the url
+git remote add <name> <url> 	| add remote
+git remote -v		        	| 
