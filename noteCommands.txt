@@ -44,3 +44,4 @@ git remote -v		        	| list if you have or what your current remotes are
 git remote <oldName> <newName>  | change remote name
 git remote remove <name>        | get rid of a remote
 git push <remote> <branch>      | git push origin <branch name>
+git push -u orgin <branchname>  | saves this branch to the branchname you make, so if you git push from that branch it will always push to that branch on github
