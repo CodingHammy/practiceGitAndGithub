@@ -49,3 +49,4 @@ git branch -r                   | to view the remote branches our local repo kno
 git fetch <remote> <branch>     | gets online repo and puts into git repo without messing with what you are currently doing. default is origin/main and all branches
 git pull                        | gets online repo and puts it into your workspace
 git rebase main                 | merges branches to the start of branches
+git tag -l "*<tagFind>*"	| use to find all tags with the name tagFind
