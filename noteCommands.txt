@@ -40,7 +40,7 @@ git reset --hard <commit-hash>  | reset repo back to mentioned hash and also rem
 git revert <commit-hash>        | makes new commit with same info as the commit hash that you mention so you can return to a commit you left
 git clone <url>                 | clone a repo from the url
 git remote add <name> <url> 	| add remote add url to 
-git remote -v		        | list if you have or what your current remotes are
+git remote -v		            | list if you have or what your current remotes are
 git remote <oldName> <newName>  | change remote name
 git remote remove <name>        | get rid of a remote
 git push <remote> <branch>      | git push origin <branch name>
@@ -49,9 +49,9 @@ git branch -r                   | to view the remote branches our local repo kno
 git fetch <remote> <branch>     | gets online repo and puts into git repo without messing with what you are currently doing. default is origin/main and all branches
 git pull                        | gets online repo and puts it into your workspace
 git rebase main                 | merges branches to the start of branches
-git tag -l "*<tagFind>*"	| use to find all tags with the name tagFind
-git tag <tagName>		| lightweight tag.  git tag will commit to the commit you are on
-git tag <tagName> <commit>	| tag a commit from the past using the commit hash and add the tag name
+git tag -l "*<tagFind>*"	    | use to find all tags with the name tagFind
+git tag <tagName>		        | lightweight tag.  git tag will commit to the commit you are on
+git tag <tagName> <commit>	    | tag a commit from the past using the commit hash and add the tag name
 git tag -f <tagName> <commit>	| force a tag name to move from one with the same name to the one with in the hash
-git tag -d <tagname>		| delete the tag with that tagname
-git push --tags			| push tags to github as they don't come by default
+git tag -d <tagname>		    | delete the tag with that tagname
+git push --tags			        | push tags to github as they don't come by default
