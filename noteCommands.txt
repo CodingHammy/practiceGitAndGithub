@@ -48,3 +48,4 @@ git push -u orgin <branchname>  | saves this branch to the branchname you make, 
 git branch -r                   | to view the remote branches our local repo knows about
 git fetch <remote> <branch>     | gets online repo and puts into git repo without messing with what you are currently doing. default is origin/main and all branches
 git pull                        | gets online repo and puts it into your workspace
+git rebase main                 | merges branches to the start of branches
